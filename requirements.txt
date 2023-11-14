@@ -1,7 +1,7 @@
 # Not all of these are relevant to this particular implementation
 
 streamlit
-openai
+openai==0.28
 nltk
 tqdm
 gpt-index
